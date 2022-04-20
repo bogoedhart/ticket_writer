@@ -2,8 +2,20 @@ h1 {
     color: green;
 }
 
-div {
-    background-color: violet;
+#menuItem {
     width: 200px;
 }
 
+li {
+    border-style: outset;
+    width: 200px;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+#button {
+    width: 200px;
+}
